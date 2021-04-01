@@ -1,0 +1,13 @@
+This project is to get input from text file that has format of each line
+
+
+TransactionID-CustomerID-CustomerName-Phone-City-Type-Value-ProductID-ProductName-ProductModel-Quantity-UnitPrice-ProcessingDate
+
+
+
+Then the program will display give the menu options which have:
+-Display the most valuable products
+-Display the product that is bought with the highest quantity
+-Display the most valuable customers
+-Display the cities that have most valuable customers
+-Display all transactions on type
